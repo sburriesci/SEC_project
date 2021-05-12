@@ -34,7 +34,7 @@ colnames(case_table) <- c("RelNum", "Date", "Respondents")
 case_table <- case_table %>% filter(RelNum != "" & !grepl("Quarter", RelNum))
 case_table <- case_table %>% mutate(Link = as.vector(html_nodes(tab, "td:first-child a") %>% html_attr("href")))
 case_table$Link <- paste0("https://www.sec.gov", case_table$Link)
-case_table$Date <- parse_date_time(case_table$Date, order = "mdy")
+case_table$Date <- mdy(case_table$Date)
 
 # filter out cases before a certain date, e.g., before the date when the script was last run
 

@@ -1,159 +1,317 @@
-RelNum,Date,Respondents,Link,document,cease
-34-91856,2021-05-12T00:00:00Z,"AirXpanders, Inc.",https://www.sec.gov/litigation/admin/2021/34-91856.pdf,34-91856.pdf,0
-34-91855,2021-05-12T00:00:00Z,Aedan Financial Corporation,https://www.sec.gov/litigation/admin/2021/34-91855.pdf,34-91855.pdf,0
-34-91853,2021-05-12T00:00:00Z,"GWFS Equities, Inc.",https://www.sec.gov/litigation/admin/2021/34-91853.pdf,34-91853.pdf,3
-34-91846,2021-05-11T00:00:00Z,"Freestone Resources, Inc.",https://www.sec.gov/litigation/admin/2021/34-91846.pdf,34-91846.pdf,0
-34-91842,2021-05-11T00:00:00Z,Flatworld Acquisition Corp.,https://www.sec.gov/litigation/admin/2021/34-91842.pdf,34-91842.pdf,0
-34-91850,2021-05-11T00:00:00Z,"MJ Biotech, Inc. (f/k/a Michael James Enterprises, Inc.)",https://www.sec.gov/litigation/admin/2021/34-91850.pdf,34-91850.pdf,0
-34-91848,2021-05-11T00:00:00Z,"Gala Pharmaceutical, Inc.",https://www.sec.gov/litigation/admin/2021/34-91848.pdf,34-91848.pdf,0
-34-91828,2021-05-10T00:00:00Z,"China Soar Information Technology, Inc.",https://www.sec.gov/litigation/admin/2021/34-91828.pdf,34-91828.pdf,0
-34-91826,2021-05-10T00:00:00Z,Cerebain Biotech Corp.,https://www.sec.gov/litigation/admin/2021/34-91826.pdf,34-91826.pdf,0
-34-91822,2021-05-10T00:00:00Z,"Ameritek Ventures, Inc.",https://www.sec.gov/litigation/admin/2021/34-91822.pdf,34-91822.pdf,0
-34-91819,2021-05-10T00:00:00Z,"Alphacom Holdings, Inc.",https://www.sec.gov/litigation/admin/2021/34-91819.pdf,34-91819.pdf,0
-34-91818,2021-05-10T00:00:00Z,Northern Trust Hedge Fund Services LLC and Northern Trust Global Fund Services Cayman Limited,https://www.sec.gov/litigation/admin/2021/34-91818.pdf,34-91818.pdf,2
-34-91816,2021-05-10T00:00:00Z,Wilmington Trust Corporation,https://www.sec.gov/litigation/admin/2021/34-91816.pdf,34-91816.pdf,2
-34-91815,2021-05-10T00:00:00Z,"Bethany Liou and Golden California Regional Center, LLC",https://www.sec.gov/litigation/admin/2021/34-91815.pdf,34-91815.pdf,0
-34-91814,2021-05-10T00:00:00Z,Gregory P. Herlean,https://www.sec.gov/litigation/admin/2021/34-91814.pdf,34-91814.pdf,0
-34-91811,2021-05-10T00:00:00Z,Stephen J. Byrne,https://www.sec.gov/litigation/admin/2021/34-91811.pdf,34-91811.pdf,0
-IA-5732,2021-05-10T00:00:00Z,"Peter J. Decaprio
+RelNum,Date,Respondents,Link,document,ceasecount
+34-91856,5/12/2021,"AirXpanders, Inc.",https://www.sec.gov/litigation/admin/2021/34-91856.pdf,34-91856.pdf,0
+34-91855,5/12/2021,Aedan Financial Corporation,https://www.sec.gov/litigation/admin/2021/34-91855.pdf,34-91855.pdf,0
+34-91853,5/12/2021,"GWFS Equities, Inc.",https://www.sec.gov/litigation/admin/2021/34-91853.pdf,34-91853.pdf,3
+34-91846,5/11/2021,"Freestone Resources, Inc.",https://www.sec.gov/litigation/admin/2021/34-91846.pdf,34-91846.pdf,0
+34-91842,5/11/2021,Flatworld Acquisition Corp.,https://www.sec.gov/litigation/admin/2021/34-91842.pdf,34-91842.pdf,0
+34-91850,5/11/2021,"MJ Biotech, Inc. (f/k/a Michael James Enterprises, Inc.)",https://www.sec.gov/litigation/admin/2021/34-91850.pdf,34-91850.pdf,0
+34-91848,5/11/2021,"Gala Pharmaceutical, Inc.",https://www.sec.gov/litigation/admin/2021/34-91848.pdf,34-91848.pdf,0
+34-91828,5/10/2021,"China Soar Information Technology, Inc.",https://www.sec.gov/litigation/admin/2021/34-91828.pdf,34-91828.pdf,0
+34-91826,5/10/2021,Cerebain Biotech Corp.,https://www.sec.gov/litigation/admin/2021/34-91826.pdf,34-91826.pdf,0
+34-91822,5/10/2021,"Ameritek Ventures, Inc.",https://www.sec.gov/litigation/admin/2021/34-91822.pdf,34-91822.pdf,0
+34-91819,5/10/2021,"Alphacom Holdings, Inc.",https://www.sec.gov/litigation/admin/2021/34-91819.pdf,34-91819.pdf,0
+34-91818,5/10/2021,Northern Trust Hedge Fund Services LLC and Northern Trust Global Fund Services Cayman Limited,https://www.sec.gov/litigation/admin/2021/34-91818.pdf,34-91818.pdf,2
+34-91816,5/10/2021,Wilmington Trust Corporation,https://www.sec.gov/litigation/admin/2021/34-91816.pdf,34-91816.pdf,2
+34-91815,5/10/2021,"Bethany Liou and Golden California Regional Center, LLC",https://www.sec.gov/litigation/admin/2021/34-91815.pdf,34-91815.pdf,0
+34-91814,5/10/2021,Gregory P. Herlean,https://www.sec.gov/litigation/admin/2021/34-91814.pdf,34-91814.pdf,0
+34-91811,5/10/2021,Stephen J. Byrne,https://www.sec.gov/litigation/admin/2021/34-91811.pdf,34-91811.pdf,0
+IA-5732,5/10/2021,"Peter J. Decaprio
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/ia-5732.pdf,ia-5732.pdf,5
-34-91800,2021-05-07T00:00:00Z,"Biohemp International, Inc.",https://www.sec.gov/litigation/admin/2021/34-91800.pdf,34-91800.pdf,0
-34-91796,2021-05-07T00:00:00Z,"Apotheca Biosciences, Inc.",https://www.sec.gov/litigation/admin/2021/34-91796.pdf,34-91796.pdf,0
-34-91795,2021-05-07T00:00:00Z,"Corbyn W. Jones, Esq.
+34-91800,5/7/2021,"Biohemp International, Inc.",https://www.sec.gov/litigation/admin/2021/34-91800.pdf,34-91800.pdf,0
+34-91796,5/7/2021,"Apotheca Biosciences, Inc.",https://www.sec.gov/litigation/admin/2021/34-91796.pdf,34-91796.pdf,0
+34-91795,5/7/2021,"Corbyn W. Jones, Esq.
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/34-91795.pdf,34-91795.pdf,0
-34-91793,2021-05-07T00:00:00Z,"Reliance Financial Advisors, LLC, Timothy S. Dembski and Walter F. Grenda, Jr.",https://www.sec.gov/litigation/admin/2021/34-91793.pdf,34-91793.pdf,0
-34-91792,2021-05-07T00:00:00Z,"Mancera, et al.",https://www.sec.gov/litigation/admin/2021/34-91792.pdf,34-91792.pdf,0
-34-91774,2021-05-05T00:00:00Z,"Clontech Laboratories, Inc. n/k/a Takara Bio USA, Inc.",https://www.sec.gov/litigation/admin/2021/34-91774.pdf,34-91774.pdf,0
-34-91772,2021-05-05T00:00:00Z,"Seth P. Levine, Esq.",https://www.sec.gov/litigation/admin/2021/34-91772.pdf,34-91772.pdf,0
-33-10941,2021-05-05T00:00:00Z,"Maxwell Drever
+34-91793,5/7/2021,"Reliance Financial Advisors, LLC, Timothy S. Dembski and Walter F. Grenda, Jr.",https://www.sec.gov/litigation/admin/2021/34-91793.pdf,34-91793.pdf,0
+34-91792,5/7/2021,"Mancera, et al.",https://www.sec.gov/litigation/admin/2021/34-91792.pdf,34-91792.pdf,0
+34-91774,5/5/2021,"Clontech Laboratories, Inc. n/k/a Takara Bio USA, Inc.",https://www.sec.gov/litigation/admin/2021/34-91774.pdf,34-91774.pdf,0
+34-91772,5/5/2021,"Seth P. Levine, Esq.",https://www.sec.gov/litigation/admin/2021/34-91772.pdf,34-91772.pdf,0
+33-10941,5/5/2021,"Maxwell Drever
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/33-10941.pdf,33-10941.pdf,3
-IA-5731,2021-05-05T00:00:00Z,Hai Khoa Dang,https://www.sec.gov/litigation/admin/2021/ia-5731.pdf,ia-5731.pdf,0
-34-91749,2021-05-04T00:00:00Z,"Bradley J. Tennison
+IA-5731,5/5/2021,Hai Khoa Dang,https://www.sec.gov/litigation/admin/2021/ia-5731.pdf,ia-5731.pdf,0
+34-91749,5/4/2021,"Bradley J. Tennison
 Other Release No.: IA-5729",https://www.sec.gov/litigation/admin/2021/34-91749.pdf,34-91749.pdf,0
-34-91739,2021-05-03T00:00:00Z,Kenneth Ciapala,https://www.sec.gov/litigation/admin/2021/34-91739.pdf,34-91739.pdf,0
-33-10940,2021-05-03T00:00:00Z,"Under Armour, Inc.
+34-91739,5/3/2021,Kenneth Ciapala,https://www.sec.gov/litigation/admin/2021/34-91739.pdf,34-91739.pdf,0
+33-10940,5/3/2021,"Under Armour, Inc.
 Other Release Nos.: 34-91741, AAER-4220",https://www.sec.gov/litigation/admin/2021/33-10940.pdf,33-10940.pdf,2
-34-91738,2021-04-30T00:00:00Z,Laurence I. Balter d/b/a Oracle Investment Research,https://www.sec.gov/litigation/admin/2021/34-91738.pdf,34-91738.pdf,1
-34-91737,2021-04-30T00:00:00Z,Morgan Stanley Smith Barney LLC,https://www.sec.gov/litigation/admin/2021/34-91737.pdf,34-91737.pdf,1
-34-91723,2021-04-29T00:00:00Z,"HQDA Elderly Life Network, Inc. (Corrected)
+34-91738,4/30/2021,Laurence I. Balter d/b/a Oracle Investment Research,https://www.sec.gov/litigation/admin/2021/34-91738.pdf,34-91738.pdf,1
+34-91737,4/30/2021,Morgan Stanley Smith Barney LLC,https://www.sec.gov/litigation/admin/2021/34-91737.pdf,34-91737.pdf,1
+34-91723,4/29/2021,"HQDA Elderly Life Network, Inc. (Corrected)
 Other Release No.: AAER-4219",https://www.sec.gov/litigation/admin/2021/34-91723.pdf,34-91723.pdf,4
-34-91722,2021-04-29T00:00:00Z,"Daniels Corporate Advisory Company, Inc.
+34-91722,4/29/2021,"Daniels Corporate Advisory Company, Inc.
 Other Release No.: AAER-4218",https://www.sec.gov/litigation/admin/2021/34-91722.pdf,34-91722.pdf,2
-34-91721,2021-04-29T00:00:00Z,"Rokk3r, Inc.
+34-91721,4/29/2021,"Rokk3r, Inc.
 Other Release No.: AAER-4217",https://www.sec.gov/litigation/admin/2021/34-91721.pdf,34-91721.pdf,2
-34-91719,2021-04-29T00:00:00Z,"Igen Networks Corp.
+34-91719,4/29/2021,"Igen Networks Corp.
 Other Release No.: AAER-4216",https://www.sec.gov/litigation/admin/2021/34-91719.pdf,34-91719.pdf,2
-34-91718,2021-04-29T00:00:00Z,"Asta Funding, Inc.
+34-91718,4/29/2021,"Asta Funding, Inc.
 Other Release No.: AAER-4215",https://www.sec.gov/litigation/admin/2021/34-91718.pdf,34-91718.pdf,2
-34-91717,2021-04-29T00:00:00Z,"ShiftPixy, Inc.
+34-91717,4/29/2021,"ShiftPixy, Inc.
 Other Release No.: AAER-4214",https://www.sec.gov/litigation/admin/2021/34-91717.pdf,34-91717.pdf,2
-34-91716,2021-04-29T00:00:00Z,"Trutankless, Inc.
+34-91716,4/29/2021,"Trutankless, Inc.
 Other Release No.: AAER-4213",https://www.sec.gov/litigation/admin/2021/34-91716.pdf,34-91716.pdf,1
-34-91715,2021-04-29T00:00:00Z,"Fortem Resources, Inc.
+34-91715,4/29/2021,"Fortem Resources, Inc.
 Other Release No.: AAER-4212",https://www.sec.gov/litigation/admin/2021/34-91715.pdf,34-91715.pdf,2
-34-91704,2021-04-29T00:00:00Z,"Cyclone Power Technologies, Inc. and Ecolocap Solutions, Inc.",https://www.sec.gov/litigation/admin/2021/34-91704.pdf,34-91704.pdf,0
-34-91647,2021-04-22T00:00:00Z,"BitClave PTE, Ltd.",https://www.sec.gov/litigation/admin/2021/34-91647.pdf,34-91647.pdf,2
-34-91642,2021-04-22T00:00:00Z,FCA US LLC and Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91642.pdf,34-91642.pdf,2
-34-91628,2021-04-22T00:00:00Z,"Amit Tandon, Esq.",https://www.sec.gov/litigation/admin/2021/34-91628.pdf,34-91628.pdf,0
-34-91613,2021-04-19T00:00:00Z,"Jaime M. Westenbarger
+34-91704,4/29/2021,"Cyclone Power Technologies, Inc. and Ecolocap Solutions, Inc.",https://www.sec.gov/litigation/admin/2021/34-91704.pdf,34-91704.pdf,0
+34-91647,4/22/2021,"BitClave PTE, Ltd.",https://www.sec.gov/litigation/admin/2021/34-91647.pdf,34-91647.pdf,2
+34-91642,4/22/2021,FCA US LLC and Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91642.pdf,34-91642.pdf,2
+34-91628,4/22/2021,"Amit Tandon, Esq.",https://www.sec.gov/litigation/admin/2021/34-91628.pdf,34-91628.pdf,0
+34-91613,4/19/2021,"Jaime M. Westenbarger
 Other Release No.: IA-5725",https://www.sec.gov/litigation/admin/2021/34-91613.pdf,34-91613.pdf,2
-IA-5724,2021-04-19T00:00:00Z,Dean Mustaphalli,https://www.sec.gov/litigation/admin/2021/ia-5724.pdf,ia-5724.pdf,0
-IA-5723,2021-04-19T00:00:00Z,"Martin Silver, CPA
+IA-5724,4/19/2021,Dean Mustaphalli,https://www.sec.gov/litigation/admin/2021/ia-5724.pdf,ia-5724.pdf,0
+IA-5723,4/19/2021,"Martin Silver, CPA
 Other Release No.: AAER-4210",https://www.sec.gov/litigation/admin/2021/ia-5723.pdf,ia-5723.pdf,0
-34-91606,2021-04-16T00:00:00Z,General Electric Company,https://www.sec.gov/litigation/admin/2021/34-91606.pdf,34-91606.pdf,0
-34-91591,2021-04-16T00:00:00Z,"Christopher Lee Hibbard
+34-91606,4/16/2021,General Electric Company,https://www.sec.gov/litigation/admin/2021/34-91606.pdf,34-91606.pdf,0
+34-91591,4/16/2021,"Christopher Lee Hibbard
 Other Release No.: IA-5721",https://www.sec.gov/litigation/admin/2021/34-91591.pdf,34-91591.pdf,0
-34-91590,2021-04-16T00:00:00Z,"Robinhood Financial, LLC",https://www.sec.gov/litigation/admin/2021/34-91590.pdf,34-91590.pdf,2
-34-91589,2021-04-16T00:00:00Z,"Signator Investors, Inc. and Gregory J. Mitchell;",https://www.sec.gov/litigation/admin/2021/34-91589.pdf,34-91589.pdf,0
-34-91588,2021-04-16T00:00:00Z,Bluecrest Capital Management Limited,https://www.sec.gov/litigation/admin/2021/34-91588.pdf,34-91588.pdf,0
-34-91574,2021-04-15T00:00:00Z,"Healthway Shopping Network, Monetiva, Inc. and Unity Global Holdings Ltd.",https://www.sec.gov/litigation/admin/2021/34-91574.pdf,34-91574.pdf,0
-34-91572,2021-04-15T00:00:00Z,Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91572.pdf,34-91572.pdf,2
-34-91571,2021-04-15T00:00:00Z,Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91571.pdf,34-91571.pdf,0
-34-91570,2021-04-15T00:00:00Z,Laurence I. Balter d/b/a Oracle Investment Research,https://www.sec.gov/litigation/admin/2021/34-91570.pdf,34-91570.pdf,1
-34-91569,2021-04-15T00:00:00Z,Trinity Capital Corporation,https://www.sec.gov/litigation/admin/2021/34-91569.pdf,34-91569.pdf,0
-IA-5719,2021-04-15T00:00:00Z,"Mason Investment Advisory Services, Inc.",https://www.sec.gov/litigation/admin/2021/ia-5719.pdf,ia-5719.pdf,6
-34-91536,2021-04-12T00:00:00Z,"Craig R. Fronckiewicz, CPA
+34-91590,4/16/2021,"Robinhood Financial, LLC",https://www.sec.gov/litigation/admin/2021/34-91590.pdf,34-91590.pdf,2
+34-91589,4/16/2021,"Signator Investors, Inc. and Gregory J. Mitchell;",https://www.sec.gov/litigation/admin/2021/34-91589.pdf,34-91589.pdf,0
+34-91588,4/16/2021,Bluecrest Capital Management Limited,https://www.sec.gov/litigation/admin/2021/34-91588.pdf,34-91588.pdf,0
+34-91574,4/15/2021,"Healthway Shopping Network, Monetiva, Inc. and Unity Global Holdings Ltd.",https://www.sec.gov/litigation/admin/2021/34-91574.pdf,34-91574.pdf,0
+34-91572,4/15/2021,Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91572.pdf,34-91572.pdf,2
+34-91571,4/15/2021,Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91571.pdf,34-91571.pdf,0
+34-91570,4/15/2021,Laurence I. Balter d/b/a Oracle Investment Research,https://www.sec.gov/litigation/admin/2021/34-91570.pdf,34-91570.pdf,1
+34-91569,4/15/2021,Trinity Capital Corporation,https://www.sec.gov/litigation/admin/2021/34-91569.pdf,34-91569.pdf,0
+IA-5719,4/15/2021,"Mason Investment Advisory Services, Inc.",https://www.sec.gov/litigation/admin/2021/ia-5719.pdf,ia-5719.pdf,6
+34-91536,4/12/2021,"Craig R. Fronckiewicz, CPA
 Other Release No.: AAER-4208",https://www.sec.gov/litigation/admin/2021/34-91536.pdf,34-91536.pdf,0
-34-91522,2021-04-09T00:00:00Z,"Paragon Coin, Inc.",https://www.sec.gov/litigation/admin/2021/34-91522.pdf,34-91522.pdf,2
-34-91511,2021-04-08T00:00:00Z,John Alexander Van Arem,https://www.sec.gov/litigation/admin/2021/34-91511.pdf,34-91511.pdf,0
-34-91509,2021-04-08T00:00:00Z,"Fifth Street Management, LLC",https://www.sec.gov/litigation/admin/2021/34-91509.pdf,34-91509.pdf,0
-34-91508,2021-04-08T00:00:00Z,"Fortress Investment Management, LLC, William M. Malloy, III.",https://www.sec.gov/litigation/admin/2021/34-91508.pdf,34-91508.pdf,0
-34-91507,2021-04-08T00:00:00Z,"Super Micro Computer, Inc.
+34-91522,4/9/2021,"Paragon Coin, Inc.",https://www.sec.gov/litigation/admin/2021/34-91522.pdf,34-91522.pdf,2
+34-91511,4/8/2021,John Alexander Van Arem,https://www.sec.gov/litigation/admin/2021/34-91511.pdf,34-91511.pdf,0
+34-91509,4/8/2021,"Fifth Street Management, LLC",https://www.sec.gov/litigation/admin/2021/34-91509.pdf,34-91509.pdf,0
+34-91508,4/8/2021,"Fortress Investment Management, LLC, William M. Malloy, III.",https://www.sec.gov/litigation/admin/2021/34-91508.pdf,34-91508.pdf,0
+34-91507,4/8/2021,"Super Micro Computer, Inc.
 See also: Distribution Plan",https://www.sec.gov/litigation/admin/2021/34-91507.pdf,34-91507.pdf,4
-IA-5715,2021-04-08T00:00:00Z,Don Warner Reinhard,https://www.sec.gov/litigation/admin/2021/ia-5715.pdf,ia-5715.pdf,0
-34-91475,2021-04-05T00:00:00Z,"Christopher E. Knauth, CPA
+IA-5715,4/8/2021,Don Warner Reinhard,https://www.sec.gov/litigation/admin/2021/ia-5715.pdf,ia-5715.pdf,0
+34-91475,4/5/2021,"Christopher E. Knauth, CPA
 Other Release No.: AAER-4207",https://www.sec.gov/litigation/admin/2021/34-91475.pdf,34-91475.pdf,4
-IA-5713,2021-04-05T00:00:00Z,E*Hedge Securities Inc. f/k/a E*Hedge Inc. and Devon W. Parks,https://www.sec.gov/litigation/admin/2021/ia-5713.pdf,ia-5713.pdf,0
-34-91470,2021-04-02T00:00:00Z,Carol J. Wayland,https://www.sec.gov/litigation/admin/2021/34-91470.pdf,34-91470.pdf,0
-34-91447,2021-03-31T00:00:00Z,"Soupman, Inc. and Trailblazer Resources, Inc.",https://www.sec.gov/litigation/admin/2021/34-91447.pdf,34-91447.pdf,0
-IA-5710,2021-03-29T00:00:00Z,Edward F. Gobora,https://www.sec.gov/litigation/admin/2021/ia-5710.pdf,ia-5710.pdf,0
-34-91412,2021-03-25T00:00:00Z,"Integral Technologies, Inc.",https://www.sec.gov/litigation/admin/2021/34-91412.pdf,34-91412.pdf,0
-33-10937,2021-03-24T00:00:00Z,"Troy E. Marchand
+IA-5713,4/5/2021,E*Hedge Securities Inc. f/k/a E*Hedge Inc. and Devon W. Parks,https://www.sec.gov/litigation/admin/2021/ia-5713.pdf,ia-5713.pdf,0
+34-91470,4/2/2021,Carol J. Wayland,https://www.sec.gov/litigation/admin/2021/34-91470.pdf,34-91470.pdf,0
+34-91447,3/31/2021,"Soupman, Inc. and Trailblazer Resources, Inc.",https://www.sec.gov/litigation/admin/2021/34-91447.pdf,34-91447.pdf,0
+IA-5710,3/29/2021,Edward F. Gobora,https://www.sec.gov/litigation/admin/2021/ia-5710.pdf,ia-5710.pdf,0
+34-91412,3/25/2021,"Integral Technologies, Inc.",https://www.sec.gov/litigation/admin/2021/34-91412.pdf,34-91412.pdf,0
+33-10937,3/24/2021,"Troy E. Marchand
 Other Release Nos.: 34-91400, IA-5705, IC-34235
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/33-10937.pdf,33-10937.pdf,5
-34-91405,2021-03-24T00:00:00Z,Christopher D. Dantin,https://www.sec.gov/litigation/admin/2021/34-91405.pdf,34-91405.pdf,0
-34-91404,2021-03-24T00:00:00Z,Chris A. Dantin,https://www.sec.gov/litigation/admin/2021/34-91404.pdf,34-91404.pdf,0
-34-91401,2021-03-24T00:00:00Z,"Scott T. Wolfrum
+34-91405,3/24/2021,Christopher D. Dantin,https://www.sec.gov/litigation/admin/2021/34-91405.pdf,34-91405.pdf,0
+34-91404,3/24/2021,Chris A. Dantin,https://www.sec.gov/litigation/admin/2021/34-91404.pdf,34-91404.pdf,0
+34-91401,3/24/2021,"Scott T. Wolfrum
 Other Release No.: IA-5706
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/34-91401.pdf,34-91401.pdf,5
-IA-5707,2021-03-24T00:00:00Z,"Tyler C. Sadek
+IA-5707,3/24/2021,"Tyler C. Sadek
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/ia-5707.pdf,ia-5707.pdf,6
-34-91392,2021-03-23T00:00:00Z,Andrew L. White,https://www.sec.gov/litigation/admin/2021/34-91392.pdf,34-91392.pdf,0
-34-91379,2021-03-22T00:00:00Z,"World Tree Financial, LLC
+34-91392,3/23/2021,Andrew L. White,https://www.sec.gov/litigation/admin/2021/34-91392.pdf,34-91392.pdf,0
+34-91379,3/22/2021,"World Tree Financial, LLC
 Other Release No.: IA-5702",https://www.sec.gov/litigation/admin/2021/34-91379.pdf,34-91379.pdf,0
-34-91378,2021-03-22T00:00:00Z,"Wesley Kyle Perkins
+34-91378,3/22/2021,"Wesley Kyle Perkins
 Other Release No.: IA-5701",https://www.sec.gov/litigation/admin/2021/34-91378.pdf,34-91378.pdf,0
-IA-5700,2021-03-22T00:00:00Z,Isaiah L. Goodman,https://www.sec.gov/litigation/admin/2021/ia-5700.pdf,ia-5700.pdf,0
-34-91346,2021-03-18T00:00:00Z,Ivan Ramos,https://www.sec.gov/litigation/admin/2021/34-91346.pdf,34-91346.pdf,0
-34-91337,2021-03-16T00:00:00Z,Joel M. Frank,https://www.sec.gov/litigation/admin/2021/34-91337.pdf,34-91337.pdf,3
-33-10932,2021-03-15T00:00:00Z,"Ettro Capital Management Corp. and Peter Ettro
+IA-5700,3/22/2021,Isaiah L. Goodman,https://www.sec.gov/litigation/admin/2021/ia-5700.pdf,ia-5700.pdf,0
+34-91346,3/18/2021,Ivan Ramos,https://www.sec.gov/litigation/admin/2021/34-91346.pdf,34-91346.pdf,0
+34-91337,3/16/2021,Joel M. Frank,https://www.sec.gov/litigation/admin/2021/34-91337.pdf,34-91337.pdf,3
+33-10932,3/15/2021,"Ettro Capital Management Corp. and Peter Ettro
 Other Release Nos.: 34-91325, IA-5697, IC-34222
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/33-10932.pdf,33-10932.pdf,6
-34-91310,2021-03-12T00:00:00Z,Michael Sean Murphy,https://www.sec.gov/litigation/admin/2021/34-91310.pdf,34-91310.pdf,0
-34-91304,2021-03-11T00:00:00Z,Glen A. Stewart,https://www.sec.gov/litigation/admin/2021/34-91304.pdf,34-91304.pdf,0
-34-91289,2021-03-10T00:00:00Z,"Minish ""Joe"" Hede",https://www.sec.gov/litigation/admin/2021/34-91289.pdf,34-91289.pdf,0
-34-91270,2021-03-05T00:00:00Z,Jocelyn Murphy,https://www.sec.gov/litigation/admin/2021/34-91270.pdf,34-91270.pdf,0
-34-91255,2021-03-04T00:00:00Z,"Gray Financial Group, Inc., et al.",https://www.sec.gov/litigation/admin/2021/34-91255.pdf,34-91255.pdf,1
-34-91246,2021-03-03T00:00:00Z,Kevin Graetz,https://www.sec.gov/litigation/admin/2021/34-91246.pdf,34-91246.pdf,0
-34-91244,2021-03-02T00:00:00Z,General Electric Company,https://www.sec.gov/litigation/admin/2021/34-91244.pdf,34-91244.pdf,2
-34-91243,2021-03-02T00:00:00Z,Ross McLellan,https://www.sec.gov/litigation/admin/2021/34-91243.pdf,34-91243.pdf,0
-IA-5694,2021-03-02T00:00:00Z,"Gregory Moats Sampson
+34-91310,3/12/2021,Michael Sean Murphy,https://www.sec.gov/litigation/admin/2021/34-91310.pdf,34-91310.pdf,0
+34-91304,3/11/2021,Glen A. Stewart,https://www.sec.gov/litigation/admin/2021/34-91304.pdf,34-91304.pdf,0
+34-91289,3/10/2021,"Minish ""Joe"" Hede",https://www.sec.gov/litigation/admin/2021/34-91289.pdf,34-91289.pdf,0
+34-91270,3/5/2021,Jocelyn Murphy,https://www.sec.gov/litigation/admin/2021/34-91270.pdf,34-91270.pdf,0
+34-91255,3/4/2021,"Gray Financial Group, Inc., et al.",https://www.sec.gov/litigation/admin/2021/34-91255.pdf,34-91255.pdf,1
+34-91246,3/3/2021,Kevin Graetz,https://www.sec.gov/litigation/admin/2021/34-91246.pdf,34-91246.pdf,0
+34-91244,3/2/2021,General Electric Company,https://www.sec.gov/litigation/admin/2021/34-91244.pdf,34-91244.pdf,2
+34-91243,3/2/2021,Ross McLellan,https://www.sec.gov/litigation/admin/2021/34-91243.pdf,34-91243.pdf,0
+IA-5694,3/2/2021,"Gregory Moats Sampson
 See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/ia-5694.pdf,ia-5694.pdf,0
-34-91209,2021-02-25T00:00:00Z,Allan L. Lundervold (Corrected),https://www.sec.gov/litigation/admin/2021/34-91209.pdf,34-91209.pdf,0
-33-10930,2021-02-24T00:00:00Z,"Michael G. Moore
+34-91209,2/25/2021,Allan L. Lundervold (Corrected),https://www.sec.gov/litigation/admin/2021/34-91209.pdf,34-91209.pdf,0
+33-10930,2/24/2021,"Michael G. Moore
 Other Release No.: 34-91195",https://www.sec.gov/litigation/admin/2021/33-10930.pdf,33-10930.pdf,3
-34-91201,2021-02-24T00:00:00Z,"Craig A. Zabala
+34-91201,2/24/2021,"Craig A. Zabala
 Other Release No.: IA-5691",https://www.sec.gov/litigation/admin/2021/34-91201.pdf,34-91201.pdf,0
-34-91196,2021-02-24T00:00:00Z,Gulfport Energy Corporation,https://www.sec.gov/litigation/admin/2021/34-91196.pdf,34-91196.pdf,2
-34-91187,2021-02-23T00:00:00Z,"Covia Holdings Corp. and Fairmount Santrol Holdings Inc. Now Known as Bison Merger Sub I, LLC",https://www.sec.gov/litigation/admin/2021/34-91187.pdf,34-91187.pdf,0
-34-91186,2021-02-23T00:00:00Z,"Jennifer M. Stewart, CPA
+34-91196,2/24/2021,Gulfport Energy Corporation,https://www.sec.gov/litigation/admin/2021/34-91196.pdf,34-91196.pdf,2
+34-91187,2/23/2021,"Covia Holdings Corp. and Fairmount Santrol Holdings Inc. Now Known as Bison Merger Sub I, LLC",https://www.sec.gov/litigation/admin/2021/34-91187.pdf,34-91187.pdf,0
+34-91186,2/23/2021,"Jennifer M. Stewart, CPA
 Other Release No.: AAER-4205",https://www.sec.gov/litigation/admin/2021/34-91186.pdf,34-91186.pdf,0
-34-91185,2021-02-23T00:00:00Z,"Christopher L. Stanley, CPA
+34-91185,2/23/2021,"Christopher L. Stanley, CPA
 Other Release No.: AAER-4204",https://www.sec.gov/litigation/admin/2021/34-91185.pdf,34-91185.pdf,0
-34-91174,2021-02-19T00:00:00Z,Long Blockchain Corp.,https://www.sec.gov/litigation/admin/2021/34-91174.pdf,34-91174.pdf,0
-34-91149,2021-02-17T00:00:00Z,Steven Pagartanis,https://www.sec.gov/litigation/admin/2021/34-91149.pdf,34-91149.pdf,0
-34-91140,2021-02-17T00:00:00Z,David Correia,https://www.sec.gov/litigation/admin/2021/34-91140.pdf,34-91140.pdf,0
-34-91134,2021-02-16T00:00:00Z,"Zachary Brooke Roberts, Esq.",https://www.sec.gov/litigation/admin/2021/34-91134.pdf,34-91134.pdf,0
-34-91131,2021-02-16T00:00:00Z,"Edward T. Kelly, CPA
+34-91174,2/19/2021,Long Blockchain Corp.,https://www.sec.gov/litigation/admin/2021/34-91174.pdf,34-91174.pdf,0
+34-91149,2/17/2021,Steven Pagartanis,https://www.sec.gov/litigation/admin/2021/34-91149.pdf,34-91149.pdf,0
+34-91140,2/17/2021,David Correia,https://www.sec.gov/litigation/admin/2021/34-91140.pdf,34-91140.pdf,0
+34-91134,2/16/2021,"Zachary Brooke Roberts, Esq.",https://www.sec.gov/litigation/admin/2021/34-91134.pdf,34-91134.pdf,0
+34-91131,2/16/2021,"Edward T. Kelly, CPA
 Other Release No.: AAER-4203",https://www.sec.gov/litigation/admin/2021/34-91131.pdf,34-91131.pdf,0
-34-91129,2021-02-16T00:00:00Z,"All Grade Mining, Inc.",https://www.sec.gov/litigation/admin/2021/34-91129.pdf,34-91129.pdf,0
-34-91118,2021-02-11T00:00:00Z,"Winslow and Evans & Crocker, Inc. (Corrected) Other Release No.: IA-5684",https://www.sec.gov/litigation/admin/2021/34-91118.pdf,34-91118.pdf,5
-34-91115,2021-02-11T00:00:00Z,"Kenneth C. Meissner, James Doug Scott and Mark S. ""Mike"" Tomich",https://www.sec.gov/litigation/admin/2021/34-91115.pdf,34-91115.pdf,0
-34-91111,2021-02-11T00:00:00Z,"Signator Investors, Inc and Gregory J. Mitchell
+34-91129,2/16/2021,"All Grade Mining, Inc.",https://www.sec.gov/litigation/admin/2021/34-91129.pdf,34-91129.pdf,0
+34-91118,2/11/2021,"Winslow and Evans & Crocker, Inc. (Corrected) Other Release No.: IA-5684",https://www.sec.gov/litigation/admin/2021/34-91118.pdf,34-91118.pdf,5
+34-91115,2/11/2021,"Kenneth C. Meissner, James Doug Scott and Mark S. ""Mike"" Tomich",https://www.sec.gov/litigation/admin/2021/34-91115.pdf,34-91115.pdf,0
+34-91111,2/11/2021,"Signator Investors, Inc and Gregory J. Mitchell
 See also: Distribution Plan",https://www.sec.gov/litigation/admin/2021/34-91111.pdf,34-91111.pdf,2
-34-91103,2021-02-11T00:00:00Z,"Covia Holdings Corp. and Fairmount Santrol Holdings Inc. Now Known as Bison Merger Sub I, LLC",https://www.sec.gov/litigation/admin/2021/34-91103.pdf,34-91103.pdf,2
-34-91102,2021-02-11T00:00:00Z,BlueCrest Capital Management Limited,https://www.sec.gov/litigation/admin/2021/34-91102.pdf,34-91102.pdf,2
-IA-5683,2021-02-11T00:00:00Z,Derek Payne Burcham,https://www.sec.gov/litigation/admin/2021/ia-5683.pdf,ia-5683.pdf,1
-34-91099,2021-02-10T00:00:00Z,Anthony Killarney,https://www.sec.gov/litigation/admin/2021/34-91099.pdf,34-91099.pdf,0
-IA-5682,2021-02-09T00:00:00Z,Daniel Sholom Frishberg,https://www.sec.gov/litigation/admin/2021/ia-5682.pdf,ia-5682.pdf,0
-IA-5680,2021-02-05T00:00:00Z,"Rosedale Asset Management, LLC f/k/a Princeton Advisory Wealth Management, LLC",https://www.sec.gov/litigation/admin/2021/ia-5680.pdf,ia-5680.pdf,4
-IA-5679,2021-02-04T00:00:00Z,Mathew Martoma,https://www.sec.gov/litigation/admin/2021/ia-5679.pdf,ia-5679.pdf,0
-34-91059,2021-02-04T00:00:00Z,"David Hu
+34-91103,2/11/2021,"Covia Holdings Corp. and Fairmount Santrol Holdings Inc. Now Known as Bison Merger Sub I, LLC",https://www.sec.gov/litigation/admin/2021/34-91103.pdf,34-91103.pdf,2
+34-91102,2/11/2021,BlueCrest Capital Management Limited,https://www.sec.gov/litigation/admin/2021/34-91102.pdf,34-91102.pdf,2
+IA-5683,2/11/2021,Derek Payne Burcham,https://www.sec.gov/litigation/admin/2021/ia-5683.pdf,ia-5683.pdf,1
+34-91099,2/10/2021,Anthony Killarney,https://www.sec.gov/litigation/admin/2021/34-91099.pdf,34-91099.pdf,0
+IA-5682,2/9/2021,Daniel Sholom Frishberg,https://www.sec.gov/litigation/admin/2021/ia-5682.pdf,ia-5682.pdf,0
+IA-5680,2/5/2021,"Rosedale Asset Management, LLC f/k/a Princeton Advisory Wealth Management, LLC",https://www.sec.gov/litigation/admin/2021/ia-5680.pdf,ia-5680.pdf,4
+IA-5679,2/4/2021,Mathew Martoma,https://www.sec.gov/litigation/admin/2021/ia-5679.pdf,ia-5679.pdf,0
+34-91059,2/4/2021,"David Hu
 Other Release No.: IA-5678",https://www.sec.gov/litigation/admin/2021/34-91059.pdf,34-91059.pdf,0
-34-91046,2021-02-03T00:00:00Z,"Super Micro Computer, Inc.
+34-91046,2/3/2021,"Super Micro Computer, Inc.
 See also: Proposed Plan of Distribution",https://www.sec.gov/litigation/admin/2021/34-91046.pdf,34-91046.pdf,4
-33-10925,2021-02-02T00:00:00Z,"Joseph Jackson and Colm Callan
+33-10925,2/2/2021,"Joseph Jackson and Colm Callan
 Other Release Nos.: 34-91042, AAER-4202",https://www.sec.gov/litigation/admin/2021/33-10925.pdf,33-10925.pdf,3
-33-10924,2021-02-02T00:00:00Z,"Lightspeed Trading, LLC",https://www.sec.gov/litigation/admin/2021/33-10924.pdf,33-10924.pdf,4
-34-91026,2021-02-01T00:00:00Z,"Amogh Karney
+33-10924,2/2/2021,"Lightspeed Trading, LLC",https://www.sec.gov/litigation/admin/2021/33-10924.pdf,33-10924.pdf,4
+34-91026,2/1/2021,"Amogh Karney
+Other Release No.: IA-5677",https://www.sec.gov/litigation/admin/2021/34-91026.pdf,34-91026.pdf,1
+34-91853,5/12/2021,"GWFS Equities, Inc.",https://www.sec.gov/litigation/admin/2021/34-91853.pdf,34-91853.pdf,3
+34-91855,5/12/2021,Aedan Financial Corporation,https://www.sec.gov/litigation/admin/2021/34-91855.pdf,34-91855.pdf,0
+34-91856,5/12/2021,"AirXpanders, Inc.",https://www.sec.gov/litigation/admin/2021/34-91856.pdf,34-91856.pdf,0
+34-91848,5/11/2021,"Gala Pharmaceutical, Inc.",https://www.sec.gov/litigation/admin/2021/34-91848.pdf,34-91848.pdf,0
+34-91850,5/11/2021,"MJ Biotech, Inc. (f/k/a Michael James Enterprises, Inc.)",https://www.sec.gov/litigation/admin/2021/34-91850.pdf,34-91850.pdf,0
+34-91842,5/11/2021,Flatworld Acquisition Corp.,https://www.sec.gov/litigation/admin/2021/34-91842.pdf,34-91842.pdf,0
+34-91846,5/11/2021,"Freestone Resources, Inc.",https://www.sec.gov/litigation/admin/2021/34-91846.pdf,34-91846.pdf,0
+IA-5732,5/10/2021,"Peter J. Decaprio
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/ia-5732.pdf,ia-5732.pdf,5
+34-91811,5/10/2021,Stephen J. Byrne,https://www.sec.gov/litigation/admin/2021/34-91811.pdf,34-91811.pdf,0
+34-91814,5/10/2021,Gregory P. Herlean,https://www.sec.gov/litigation/admin/2021/34-91814.pdf,34-91814.pdf,0
+34-91815,5/10/2021,"Bethany Liou and Golden California Regional Center, LLC",https://www.sec.gov/litigation/admin/2021/34-91815.pdf,34-91815.pdf,0
+34-91816,5/10/2021,Wilmington Trust Corporation,https://www.sec.gov/litigation/admin/2021/34-91816.pdf,34-91816.pdf,2
+34-91818,5/10/2021,Northern Trust Hedge Fund Services LLC and Northern Trust Global Fund Services Cayman Limited,https://www.sec.gov/litigation/admin/2021/34-91818.pdf,34-91818.pdf,2
+34-91819,5/10/2021,"Alphacom Holdings, Inc.",https://www.sec.gov/litigation/admin/2021/34-91819.pdf,34-91819.pdf,0
+34-91822,5/10/2021,"Ameritek Ventures, Inc.",https://www.sec.gov/litigation/admin/2021/34-91822.pdf,34-91822.pdf,0
+34-91826,5/10/2021,Cerebain Biotech Corp.,https://www.sec.gov/litigation/admin/2021/34-91826.pdf,34-91826.pdf,0
+34-91828,5/10/2021,"China Soar Information Technology, Inc.",https://www.sec.gov/litigation/admin/2021/34-91828.pdf,34-91828.pdf,0
+34-91792,5/7/2021,"Mancera, et al.",https://www.sec.gov/litigation/admin/2021/34-91792.pdf,34-91792.pdf,0
+34-91793,5/7/2021,"Reliance Financial Advisors, LLC, Timothy S. Dembski and Walter F. Grenda, Jr.",https://www.sec.gov/litigation/admin/2021/34-91793.pdf,34-91793.pdf,0
+34-91795,5/7/2021,"Corbyn W. Jones, Esq.
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/34-91795.pdf,34-91795.pdf,0
+34-91796,5/7/2021,"Apotheca Biosciences, Inc.",https://www.sec.gov/litigation/admin/2021/34-91796.pdf,34-91796.pdf,0
+34-91800,5/7/2021,"Biohemp International, Inc.",https://www.sec.gov/litigation/admin/2021/34-91800.pdf,34-91800.pdf,0
+IA-5731,5/5/2021,Hai Khoa Dang,https://www.sec.gov/litigation/admin/2021/ia-5731.pdf,ia-5731.pdf,0
+33-10941,5/5/2021,"Maxwell Drever
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/33-10941.pdf,33-10941.pdf,3
+34-91772,5/5/2021,"Seth P. Levine, Esq.",https://www.sec.gov/litigation/admin/2021/34-91772.pdf,34-91772.pdf,0
+34-91774,5/5/2021,"Clontech Laboratories, Inc. n/k/a Takara Bio USA, Inc.",https://www.sec.gov/litigation/admin/2021/34-91774.pdf,34-91774.pdf,0
+34-91749,5/4/2021,"Bradley J. Tennison
+Other Release No.: IA-5729",https://www.sec.gov/litigation/admin/2021/34-91749.pdf,34-91749.pdf,0
+33-10940,5/3/2021,"Under Armour, Inc.
+Other Release Nos.: 34-91741, AAER-4220",https://www.sec.gov/litigation/admin/2021/33-10940.pdf,33-10940.pdf,2
+34-91739,5/3/2021,Kenneth Ciapala,https://www.sec.gov/litigation/admin/2021/34-91739.pdf,34-91739.pdf,0
+34-91737,4/30/2021,Morgan Stanley Smith Barney LLC,https://www.sec.gov/litigation/admin/2021/34-91737.pdf,34-91737.pdf,1
+34-91738,4/30/2021,Laurence I. Balter d/b/a Oracle Investment Research,https://www.sec.gov/litigation/admin/2021/34-91738.pdf,34-91738.pdf,1
+34-91704,4/29/2021,"Cyclone Power Technologies, Inc. and Ecolocap Solutions, Inc.",https://www.sec.gov/litigation/admin/2021/34-91704.pdf,34-91704.pdf,0
+34-91715,4/29/2021,"Fortem Resources, Inc.
+Other Release No.: AAER-4212",https://www.sec.gov/litigation/admin/2021/34-91715.pdf,34-91715.pdf,2
+34-91716,4/29/2021,"Trutankless, Inc.
+Other Release No.: AAER-4213",https://www.sec.gov/litigation/admin/2021/34-91716.pdf,34-91716.pdf,1
+34-91717,4/29/2021,"ShiftPixy, Inc.
+Other Release No.: AAER-4214",https://www.sec.gov/litigation/admin/2021/34-91717.pdf,34-91717.pdf,2
+34-91718,4/29/2021,"Asta Funding, Inc.
+Other Release No.: AAER-4215",https://www.sec.gov/litigation/admin/2021/34-91718.pdf,34-91718.pdf,2
+34-91719,4/29/2021,"Igen Networks Corp.
+Other Release No.: AAER-4216",https://www.sec.gov/litigation/admin/2021/34-91719.pdf,34-91719.pdf,2
+34-91721,4/29/2021,"Rokk3r, Inc.
+Other Release No.: AAER-4217",https://www.sec.gov/litigation/admin/2021/34-91721.pdf,34-91721.pdf,2
+34-91722,4/29/2021,"Daniels Corporate Advisory Company, Inc.
+Other Release No.: AAER-4218",https://www.sec.gov/litigation/admin/2021/34-91722.pdf,34-91722.pdf,2
+34-91723,4/29/2021,"HQDA Elderly Life Network, Inc. (Corrected)
+Other Release No.: AAER-4219",https://www.sec.gov/litigation/admin/2021/34-91723.pdf,34-91723.pdf,4
+34-91628,4/22/2021,"Amit Tandon, Esq.",https://www.sec.gov/litigation/admin/2021/34-91628.pdf,34-91628.pdf,0
+34-91642,4/22/2021,FCA US LLC and Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91642.pdf,34-91642.pdf,2
+34-91647,4/22/2021,"BitClave PTE, Ltd.",https://www.sec.gov/litigation/admin/2021/34-91647.pdf,34-91647.pdf,2
+IA-5723,4/19/2021,"Martin Silver, CPA
+Other Release No.: AAER-4210",https://www.sec.gov/litigation/admin/2021/ia-5723.pdf,ia-5723.pdf,0
+IA-5724,4/19/2021,Dean Mustaphalli,https://www.sec.gov/litigation/admin/2021/ia-5724.pdf,ia-5724.pdf,0
+34-91613,4/19/2021,"Jaime M. Westenbarger
+Other Release No.: IA-5725",https://www.sec.gov/litigation/admin/2021/34-91613.pdf,34-91613.pdf,2
+34-91588,4/16/2021,Bluecrest Capital Management Limited,https://www.sec.gov/litigation/admin/2021/34-91588.pdf,34-91588.pdf,0
+34-91589,4/16/2021,"Signator Investors, Inc. and Gregory J. Mitchell;",https://www.sec.gov/litigation/admin/2021/34-91589.pdf,34-91589.pdf,0
+34-91590,4/16/2021,"Robinhood Financial, LLC",https://www.sec.gov/litigation/admin/2021/34-91590.pdf,34-91590.pdf,2
+34-91591,4/16/2021,"Christopher Lee Hibbard
+Other Release No.: IA-5721",https://www.sec.gov/litigation/admin/2021/34-91591.pdf,34-91591.pdf,0
+34-91606,4/16/2021,General Electric Company,https://www.sec.gov/litigation/admin/2021/34-91606.pdf,34-91606.pdf,0
+IA-5719,4/15/2021,"Mason Investment Advisory Services, Inc.",https://www.sec.gov/litigation/admin/2021/ia-5719.pdf,ia-5719.pdf,6
+34-91569,4/15/2021,Trinity Capital Corporation,https://www.sec.gov/litigation/admin/2021/34-91569.pdf,34-91569.pdf,0
+34-91570,4/15/2021,Laurence I. Balter d/b/a Oracle Investment Research,https://www.sec.gov/litigation/admin/2021/34-91570.pdf,34-91570.pdf,1
+34-91571,4/15/2021,Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91571.pdf,34-91571.pdf,0
+34-91572,4/15/2021,Fiat Chrysler Automobiles N.V.,https://www.sec.gov/litigation/admin/2021/34-91572.pdf,34-91572.pdf,2
+34-91574,4/15/2021,"Healthway Shopping Network, Monetiva, Inc. and Unity Global Holdings Ltd.",https://www.sec.gov/litigation/admin/2021/34-91574.pdf,34-91574.pdf,0
+34-91536,4/12/2021,"Craig R. Fronckiewicz, CPA
+Other Release No.: AAER-4208",https://www.sec.gov/litigation/admin/2021/34-91536.pdf,34-91536.pdf,0
+34-91522,4/9/2021,"Paragon Coin, Inc.",https://www.sec.gov/litigation/admin/2021/34-91522.pdf,34-91522.pdf,2
+IA-5715,4/8/2021,Don Warner Reinhard,https://www.sec.gov/litigation/admin/2021/ia-5715.pdf,ia-5715.pdf,0
+34-91507,4/8/2021,"Super Micro Computer, Inc.
+See also: Distribution Plan",https://www.sec.gov/litigation/admin/2021/34-91507.pdf,34-91507.pdf,4
+34-91508,4/8/2021,"Fortress Investment Management, LLC, William M. Malloy, III.",https://www.sec.gov/litigation/admin/2021/34-91508.pdf,34-91508.pdf,0
+34-91509,4/8/2021,"Fifth Street Management, LLC",https://www.sec.gov/litigation/admin/2021/34-91509.pdf,34-91509.pdf,0
+34-91511,4/8/2021,John Alexander Van Arem,https://www.sec.gov/litigation/admin/2021/34-91511.pdf,34-91511.pdf,0
+IA-5713,4/5/2021,E*Hedge Securities Inc. f/k/a E*Hedge Inc. and Devon W. Parks,https://www.sec.gov/litigation/admin/2021/ia-5713.pdf,ia-5713.pdf,0
+34-91475,4/5/2021,"Christopher E. Knauth, CPA
+Other Release No.: AAER-4207",https://www.sec.gov/litigation/admin/2021/34-91475.pdf,34-91475.pdf,4
+34-91470,4/2/2021,Carol J. Wayland,https://www.sec.gov/litigation/admin/2021/34-91470.pdf,34-91470.pdf,0
+34-91447,3/31/2021,"Soupman, Inc. and Trailblazer Resources, Inc.",https://www.sec.gov/litigation/admin/2021/34-91447.pdf,34-91447.pdf,0
+IA-5710,3/29/2021,Edward F. Gobora,https://www.sec.gov/litigation/admin/2021/ia-5710.pdf,ia-5710.pdf,0
+34-91412,3/25/2021,"Integral Technologies, Inc.",https://www.sec.gov/litigation/admin/2021/34-91412.pdf,34-91412.pdf,0
+IA-5707,3/24/2021,"Tyler C. Sadek
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/ia-5707.pdf,ia-5707.pdf,6
+34-91401,3/24/2021,"Scott T. Wolfrum
+Other Release No.: IA-5706
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/34-91401.pdf,34-91401.pdf,5
+34-91404,3/24/2021,Chris A. Dantin,https://www.sec.gov/litigation/admin/2021/34-91404.pdf,34-91404.pdf,0
+34-91405,3/24/2021,Christopher D. Dantin,https://www.sec.gov/litigation/admin/2021/34-91405.pdf,34-91405.pdf,0
+33-10937,3/24/2021,"Troy E. Marchand
+Other Release Nos.: 34-91400, IA-5705, IC-34235
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/33-10937.pdf,33-10937.pdf,5
+34-91392,3/23/2021,Andrew L. White,https://www.sec.gov/litigation/admin/2021/34-91392.pdf,34-91392.pdf,0
+IA-5700,3/22/2021,Isaiah L. Goodman,https://www.sec.gov/litigation/admin/2021/ia-5700.pdf,ia-5700.pdf,0
+34-91378,3/22/2021,"Wesley Kyle Perkins
+Other Release No.: IA-5701",https://www.sec.gov/litigation/admin/2021/34-91378.pdf,34-91378.pdf,0
+34-91379,3/22/2021,"World Tree Financial, LLC
+Other Release No.: IA-5702",https://www.sec.gov/litigation/admin/2021/34-91379.pdf,34-91379.pdf,0
+34-91346,3/18/2021,Ivan Ramos,https://www.sec.gov/litigation/admin/2021/34-91346.pdf,34-91346.pdf,0
+34-91337,3/16/2021,Joel M. Frank,https://www.sec.gov/litigation/admin/2021/34-91337.pdf,34-91337.pdf,3
+33-10932,3/15/2021,"Ettro Capital Management Corp. and Peter Ettro
+Other Release Nos.: 34-91325, IA-5697, IC-34222
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/33-10932.pdf,33-10932.pdf,6
+34-91310,3/12/2021,Michael Sean Murphy,https://www.sec.gov/litigation/admin/2021/34-91310.pdf,34-91310.pdf,0
+34-91304,3/11/2021,Glen A. Stewart,https://www.sec.gov/litigation/admin/2021/34-91304.pdf,34-91304.pdf,0
+34-91289,3/10/2021,"Minish ""Joe"" Hede",https://www.sec.gov/litigation/admin/2021/34-91289.pdf,34-91289.pdf,0
+34-91270,3/5/2021,Jocelyn Murphy,https://www.sec.gov/litigation/admin/2021/34-91270.pdf,34-91270.pdf,0
+34-91255,3/4/2021,"Gray Financial Group, Inc., et al.",https://www.sec.gov/litigation/admin/2021/34-91255.pdf,34-91255.pdf,1
+34-91246,3/3/2021,Kevin Graetz,https://www.sec.gov/litigation/admin/2021/34-91246.pdf,34-91246.pdf,0
+IA-5694,3/2/2021,"Gregory Moats Sampson
+See also: Administrative Summary",https://www.sec.gov/litigation/admin/2021/ia-5694.pdf,ia-5694.pdf,0
+34-91243,3/2/2021,Ross McLellan,https://www.sec.gov/litigation/admin/2021/34-91243.pdf,34-91243.pdf,0
+34-91244,3/2/2021,General Electric Company,https://www.sec.gov/litigation/admin/2021/34-91244.pdf,34-91244.pdf,2
+34-91209,2/25/2021,Allan L. Lundervold (Corrected),https://www.sec.gov/litigation/admin/2021/34-91209.pdf,34-91209.pdf,0
+34-91196,2/24/2021,Gulfport Energy Corporation,https://www.sec.gov/litigation/admin/2021/34-91196.pdf,34-91196.pdf,2
+34-91201,2/24/2021,"Craig A. Zabala
+Other Release No.: IA-5691",https://www.sec.gov/litigation/admin/2021/34-91201.pdf,34-91201.pdf,0
+33-10930,2/24/2021,"Michael G. Moore
+Other Release No.: 34-91195",https://www.sec.gov/litigation/admin/2021/33-10930.pdf,33-10930.pdf,3
+34-91185,2/23/2021,"Christopher L. Stanley, CPA
+Other Release No.: AAER-4204",https://www.sec.gov/litigation/admin/2021/34-91185.pdf,34-91185.pdf,0
+34-91186,2/23/2021,"Jennifer M. Stewart, CPA
+Other Release No.: AAER-4205",https://www.sec.gov/litigation/admin/2021/34-91186.pdf,34-91186.pdf,0
+34-91187,2/23/2021,"Covia Holdings Corp. and Fairmount Santrol Holdings Inc. Now Known as Bison Merger Sub I, LLC",https://www.sec.gov/litigation/admin/2021/34-91187.pdf,34-91187.pdf,0
+34-91174,2/19/2021,Long Blockchain Corp.,https://www.sec.gov/litigation/admin/2021/34-91174.pdf,34-91174.pdf,0
+34-91140,2/17/2021,David Correia,https://www.sec.gov/litigation/admin/2021/34-91140.pdf,34-91140.pdf,0
+34-91149,2/17/2021,Steven Pagartanis,https://www.sec.gov/litigation/admin/2021/34-91149.pdf,34-91149.pdf,0
+34-91129,2/16/2021,"All Grade Mining, Inc.",https://www.sec.gov/litigation/admin/2021/34-91129.pdf,34-91129.pdf,0
+34-91131,2/16/2021,"Edward T. Kelly, CPA
+Other Release No.: AAER-4203",https://www.sec.gov/litigation/admin/2021/34-91131.pdf,34-91131.pdf,0
+34-91134,2/16/2021,"Zachary Brooke Roberts, Esq.",https://www.sec.gov/litigation/admin/2021/34-91134.pdf,34-91134.pdf,0
+IA-5683,2/11/2021,Derek Payne Burcham,https://www.sec.gov/litigation/admin/2021/ia-5683.pdf,ia-5683.pdf,1
+34-91102,2/11/2021,BlueCrest Capital Management Limited,https://www.sec.gov/litigation/admin/2021/34-91102.pdf,34-91102.pdf,2
+34-91103,2/11/2021,"Covia Holdings Corp. and Fairmount Santrol Holdings Inc. Now Known as Bison Merger Sub I, LLC",https://www.sec.gov/litigation/admin/2021/34-91103.pdf,34-91103.pdf,2
+34-91111,2/11/2021,"Signator Investors, Inc and Gregory J. Mitchell
+See also: Distribution Plan",https://www.sec.gov/litigation/admin/2021/34-91111.pdf,34-91111.pdf,2
+34-91115,2/11/2021,"Kenneth C. Meissner, James Doug Scott and Mark S. ""Mike"" Tomich",https://www.sec.gov/litigation/admin/2021/34-91115.pdf,34-91115.pdf,0
+34-91118,2/11/2021,"Winslow and Evans & Crocker, Inc. (Corrected) Other Release No.: IA-5684",https://www.sec.gov/litigation/admin/2021/34-91118.pdf,34-91118.pdf,5
+34-91099,2/10/2021,Anthony Killarney,https://www.sec.gov/litigation/admin/2021/34-91099.pdf,34-91099.pdf,0
+IA-5682,2/9/2021,Daniel Sholom Frishberg,https://www.sec.gov/litigation/admin/2021/ia-5682.pdf,ia-5682.pdf,0
+IA-5680,2/5/2021,"Rosedale Asset Management, LLC f/k/a Princeton Advisory Wealth Management, LLC",https://www.sec.gov/litigation/admin/2021/ia-5680.pdf,ia-5680.pdf,4
+34-91059,2/4/2021,"David Hu
+Other Release No.: IA-5678",https://www.sec.gov/litigation/admin/2021/34-91059.pdf,34-91059.pdf,0
+IA-5679,2/4/2021,Mathew Martoma,https://www.sec.gov/litigation/admin/2021/ia-5679.pdf,ia-5679.pdf,0
+34-91046,2/3/2021,"Super Micro Computer, Inc.
+See also: Proposed Plan of Distribution",https://www.sec.gov/litigation/admin/2021/34-91046.pdf,34-91046.pdf,4
+33-10924,2/2/2021,"Lightspeed Trading, LLC",https://www.sec.gov/litigation/admin/2021/33-10924.pdf,33-10924.pdf,4
+33-10925,2/2/2021,"Joseph Jackson and Colm Callan
+Other Release Nos.: 34-91042, AAER-4202",https://www.sec.gov/litigation/admin/2021/33-10925.pdf,33-10925.pdf,3
+34-91026,2/1/2021,"Amogh Karney
 Other Release No.: IA-5677",https://www.sec.gov/litigation/admin/2021/34-91026.pdf,34-91026.pdf,1
